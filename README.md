@@ -1,7 +1,7 @@
 
 ## Important
 
-This project was forked from smallnest/gen. Removes table name and struct singular. The origin project is [db2struct](https://github.com/Shelnutt2/db2struct)
+This project was forked from [smallnest/gen](https://github.com/smallnest/gen). Removes table name and struct singular. The origin project is [db2struct](https://github.com/Shelnutt2/db2struct)
 git diff: 
 ```
 --- a/main.go
